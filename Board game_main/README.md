@@ -1,1 +1,3 @@
-This is a sample java project with maven build
+This is a sample java project
+- maven build
+- java project
